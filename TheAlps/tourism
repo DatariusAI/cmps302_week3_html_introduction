@@ -1,1 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Alps – Tourism</title>
+</head>
+<body>
 
+<header>
+    <h1>World Travel - The Alps</h1>
+    <img src="Pictures/Alps.jpg" alt="The Alps" width="100%" height="200">
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="tourism.html">Tourism in Alps</a> |
+    <a href="gallery.html">Gallery</a> |
+    <a href="multimedia.html">Multimedia</a>
+</nav>
+
+<h2>Tourism</h2>
+
+<p>
+    The Alps are one of the most popular tourist destinations in the world with many resorts such as:
+</p>
+
+<figure>
+    <img src="Pictures/France.jpg" width="200" height="150">
+    <figcaption>France</figcaption>
+</figure>
+
+<figure>
+    <img src="Pictures/Switzerland.jpg" width="200" height="150">
+    <figcaption>Switzerland</figcaption>
+</figure>
+
+<figure>
+    <img src="Pictures/Austria.jpg" width="200" height="150">
+    <figcaption>Austria</figcaption>
+</figure>
+
+<figure>
+    <img src="Pictures/Bavaria.jpg" width="200" height="150">
+    <figcaption>Bavaria</figcaption>
+</figure>
+
+<ol>
+    <li>Oberstdorf, in Bavaria
+        <ul>
+            <li>Municipality and skiing town</li>
+            <li>One of the highest market towns in Germany</li>
+        </ul>
+    </li>
+    <li>Saalbach in Austria</li>
+    <li>Davos in Switzerland</li>
+    <li>Chamonix in France</li>
+</ol>
+
+<h3>Winter Sports</h3>
+<ol>
+    <li>1924 Winter Olympics – France</li>
+    <li>1928 Winter Olympics – Switzerland</li>
+    <li>1936 Winter Olympics – Germany</li>
+</ol>
+
+<h3>Passes</h3>
+<ul>
+    <li>Col de l'Iseran</li>
+    <li>Brenner Pass</li>
+    <li>Great St. Bernard Pass</li>
+    <li>Gotthard Pass</li>
+</ul>
+
+<footer>
+    <hr>
+    <p>
+        Copyright © Haidar - CMPS 302 -
+        <a href="mailto:yourname@email.com">Contact Us</a><br>
+        <a href="https://en.wikipedia.org/wiki/Alps">https://en.wikipedia.org/wiki/Alps</a>
+    </p>
+</footer>
+
+</body>
+</html>
